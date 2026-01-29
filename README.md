@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science & Machine Learning
 - 🌱 I’m currently learning B.Tech in CSE from Amity University, Noida
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: https://www.linkedin.com/in/sparsh-sharma-1bb21132b
+- 📫 How to reach me: https://www.linkedin.com/in/sparshrsharma
 - 😄 Pronouns: He/Him/Son
 - ⚡ Fun fact: Light is the ultimate speed, at least in this universe!
 
